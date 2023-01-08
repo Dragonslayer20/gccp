@@ -14,7 +14,9 @@
     <link href="assets/img/favicon.png" rel="icon">
 
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
 
     <!-- Vendor CSS Files -->
     <link href="assets/vendor/aos/aos.css" rel="stylesheet">
@@ -104,15 +106,28 @@
                     <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
                         <img src="assets/img/about.jpg" class="img-fluid" alt="">
                     </div>
-                    <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
+                    <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right"
+                        data-aos-delay="100">
                         <h1><b>Welcome to PlacementHub!</b></h1>
                         <p class="fst-italic">
-                        We are a website dedicated to connecting job seekers with top companies offering placement and internship opportunities. Our mission is to provide a platform for students and professionals to explore and apply for the best job opportunities available in their field of study or expertise.
+                            We are a website dedicated to connecting job seekers with top companies offering placement
+                            and internship opportunities. Our mission is to provide a platform for students and
+                            professionals to explore and apply for the best job opportunities available in their field
+                            of study or expertise.
                         </p>
                         <ul>
-                            <li><i class="ri-check-double-line"></i> Our team is made up of experienced professionals who are dedicated to helping job seekers find their dream careers. We work closely with leading companies across a variety of industries to bring you the most up-to-date and relevant job listings.</li>
-                            <li><i class="ri-check-double-line"></i> Whether you are a recent graduate looking for your first job or an experienced professional seeking a new challenge, we have something for everyone. We offer a range of tools and resources to help you prepare for your job search, including resume and cover letter tips, job search strategies, and interview advice.</li>
-                            <li><i class="ri-check-double-line"></i> Thank you for choosing PlacementHub as your go-to resource for finding the best placement and internship opportunities. We look forward to helping you take the next step in your career.</li>
+                            <li><i class="ri-check-double-line"></i> Our team is made up of experienced professionals
+                                who are dedicated to helping job seekers find their dream careers. We work closely with
+                                leading companies across a variety of industries to bring you the most up-to-date and
+                                relevant job listings.</li>
+                            <li><i class="ri-check-double-line"></i> Whether you are a recent graduate looking for your
+                                first job or an experienced professional seeking a new challenge, we have something for
+                                everyone. We offer a range of tools and resources to help you prepare for your job
+                                search, including resume and cover letter tips, job search strategies, and interview
+                                advice.</li>
+                            <li><i class="ri-check-double-line"></i> Thank you for choosing PlacementHub as your go-to
+                                resource for finding the best placement and internship opportunities. We look forward to
+                                helping you take the next step in your career.</li>
                         </ul>
                     </div>
                 </div>
@@ -125,27 +140,32 @@
             <div class="container" data-aos="fade-up">
 
                 <div class="row">
-                    <div class="image col-lg-6" style='background-image: url("assets/img/features.jpg");' data-aos="fade-right"></div>
+                    <div class="image col-lg-6" style='background-image: url("assets/img/features.jpg");'
+                        data-aos="fade-right"></div>
                     <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
                         <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
                             <i class="bx bx-receipt"></i>
                             <h4>Oracle Developer</h4>
-                            <p>A comprehensive database of available placements and internships, including details such as location, duration, and industry.</p>
+                            <p>A comprehensive database of available placements and internships, including details such
+                                as location, duration, and industry.</p>
                         </div>
                         <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
                             <i class="bx bx-cube-alt"></i>
                             <h4> Node JS Developer</h4>
-                            <p>An easy-to-use search and filtering system, allowing users to find opportunities that match their skills and interests.</p>
+                            <p>An easy-to-use search and filtering system, allowing users to find opportunities that
+                                match their skills and interests.</p>
                         </div>
                         <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
                             <i class="bx bx-images"></i>
                             <h4> PHP Developer</h4>
-                            <p>A secure and confidential platform for students and employers to connect and communicate about placement and internship opportunities.</p>
+                            <p>A secure and confidential platform for students and employers to connect and communicate
+                                about placement and internship opportunities.</p>
                         </div>
                         <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
                             <i class="bx bx-shield"></i>
                             <h4>Andriod Developer</h4>
-                            <p>Expert advice and resources for students preparing for placements and internships, including resume and cover letter tips, interview strategies, and networking advice.</p>
+                            <p>Expert advice and resources for students preparing for placements and internships,
+                                including resume and cover letter tips, interview strategies, and networking advice.</p>
                         </div>
                     </div>
                 </div>
@@ -179,47 +199,56 @@
                             </p>
                             <div class="social-links mt-3" ">
 
-                                <a href="https://twitter.com/gdsc_mcet/status/1576872623543181313 " class="twitter "><i class="bx bxl-twitter "></i></a>
-                                <a href="https://www.youtube.com/channel/UC0JsiGOKzlws311ic_I_zHg " class="youtube "><i class="bx bxl-youtube "></i></a>
-                                <a href="https://www.instagram.com/gdsc_mcet/ " class="instagram "><i class="bx bxl-instagram "></i></a>
-                                <a href=" https://mcetgdsc.github.io/gdsc/ " class="github "><i class=" bx bxl-github "></i></a>
-                                <a href="https://www.linkedin.com/company/google-developer-student-club-mcet?originalSubdomain=in " class="linkedin "><i class="bx bxl-linkedin "></i></a>
+                                <a href=" https://twitter.com/gdsc_mcet/status/1576872623543181313 " class="
+                                twitter "><i class=" bx bxl-twitter "></i></a>
+                                <a href=" https://www.youtube.com/channel/UC0JsiGOKzlws311ic_I_zHg " class="
+                                youtube "><i class=" bx bxl-youtube "></i></a>
+                                <a href=" https://www.instagram.com/gdsc_mcet/ " class=" instagram "><i class=" bx
+                                bxl-instagram "></i></a>
+                                <a href=" https://mcetgdsc.github.io/gdsc/ " class=" github "><i class=" bx bxl-github "></i></a>
+                                <a href="
+                                https://www.linkedin.com/company/google-developer-student-club-mcet?originalSubdomain=in " class="
+                                linkedin "><i class=" bx bxl-linkedin "></i></a>
 
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-2 col-md-6 footer-links ">
+                    <div class=" col-lg-2 col-md-6 footer-links ">
                         <h4>Useful Links</h4>
                         <ul>
-                            <li><i class="bx bx-chevron-right "></i> <a href="# ">Home</a></li>
-                            <li><i class="bx bx-chevron-right "></i> <a href="./adminslogin.php">Admin page</a></li>
-                            <li><i class="bx bx-chevron-right "></i> <a href="studentlogin.php ">Student Page</a></li>
+                            <li><i class=" bx bx-chevron-right "></i> <a href=" # ">Home</a></li>
+                            <li><i class=" bx bx-chevron-right "></i> <a href=" ./adminslogin.php">Admin page</a></li>
+                                <li><i class="bx bx-chevron-right "></i> <a href="studentlogin.php ">Student Page</a>
+                                </li>
 
-                        </ul>
-                    </div>
+                                </ul>
+                            </div>
 
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div >
-                 <center><img src="download.png " alt="GDSC-MCET " width=" 250 "> </center>
-            </div>
-
-            <div class="container ">
-                <div class="copyright ">
-                    &copy; Copyright <strong><span>GDSC</span></strong>. All Rights Reserved
+                <div>
+                    <center><img src="download.png " alt="GDSC-MCET " width=" 250 "> </center>
                 </div>
-                <div class="credits ">
-                   
-                    Designed by <a href='https://www.linkedin.com/company/google-developer-student-club-mcet?originalSubdomain=in'>GDSC-MCET </a></a>
-                
+
+                <div class="container ">
+                    <div class="copyright ">
+                        &copy; Copyright <strong><span>GDSC</span></strong>. All Rights Reserved
+                    </div>
+                    <div class="credits ">
+
+                        Designed by <a
+                            href='https://www.linkedin.com/company/google-developer-student-club-mcet?originalSubdomain=in'>GDSC-MCET
+                        </a></a>
+
     </footer>
 
     <!-- End Footer -->
 
     <div id="preloader "></div>
-    <a href="# " class="back-to-top d-flex align-items-center justify-content-center "><i class="bi bi-arrow-up-short "></i></a>
+    <a href="# " class="back-to-top d-flex align-items-center justify-content-center "><i
+            class="bi bi-arrow-up-short "></i></a>
 
     <!-- Vendor JS Files -->
     <script src="assets/vendor/purecounter/purecounter_vanilla.js "></script>

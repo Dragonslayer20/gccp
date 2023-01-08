@@ -1,9 +1,9 @@
 <?php
 $loggedin = false;
-if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] != true){
-    $loggedin= true;
-  }
- 
+if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] != true) {
+  $loggedin = true;
+}
+
 echo '<nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="color:white;">
 <div class="container-fluid">
    <h4>Welcome </h4>
@@ -16,8 +16,8 @@ echo '<nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="color:whit
         <a class="nav-link active" aria-current="page" href="index.php">Home</a>
       </li>';
 
-      if($loggedin == true){
-      echo'
+if ($loggedin == true) {
+  echo '
       <li class="nav-item">
         <a class="nav-link" href="./adminslogin.php">admin login</a>
       </li>
@@ -25,9 +25,9 @@ echo '<nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="color:whit
         <a class="nav-link" href="studentlogin.php">student login</a>
       </li>
     ';
-    }
-     if($loggedin == false){
-      echo '<li class="nav-item">
+}
+if ($loggedin == false) {
+  echo '<li class="nav-item">
         <a class="nav-link" href="logout.php" id="navbar" role="button">
           logout
         </a>
@@ -42,8 +42,8 @@ echo '<nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="color:whit
         <a class="nav-link" href="response.php">Responses</a>
       </li>
      ';
-     }
-      echo '</ul>
+}
+echo '</ul>
     
   </div>
 </div>
