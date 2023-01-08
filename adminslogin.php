@@ -120,7 +120,8 @@ if ($showerror == true) {
                                             <!-- PASSWORD INPUT -->
 
                                             <div class="mb-5">
-                                                <label for="exampleInputPassword1" class="form-label mb-3">Password</label>
+                                                <label for="exampleInputPassword1"
+                                                    class="form-label mb-3">Password</label>
                                                 <input type="password" name="password" placeholder="password"
                                                     class="form-control" id="exampleInputPassword1">
                                             </div>
@@ -134,14 +135,10 @@ if ($showerror == true) {
                             </div>
                         </div>
                     </div>
-                    <div class="footer" style="position:center;">
-                        <center>
-                            <h2> <strong style="color: red;">
-                                    < </strong> <strong style="color: blue;"> > </strong> </h2>
-                        </center>
-                        <center>
-                            <h3><strong>GDSC MCET</strong></h3>
-                        </center>
+                    <div class="footer mb-3" style="position:center;">
+                        <div>
+                            <center><img src="download.png " alt="GDSC-MCET " width=" 250 "> </center>
+                        </div>
                     </div>
                 </form>
             </div>

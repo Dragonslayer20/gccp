@@ -137,13 +137,9 @@ if ($showerror == true) {
                         </div>
                     </div>
                     <div class="footer mb-5" style="position:center;">
-                        <center>
-                            <h2> <strong style="color: red;">
-                                    < </strong> <strong style="color: blue;"> > </strong> </h2>
-                        </center>
-                        <center>
-                            <h3><strong>GDSC MCET</strong></h3>
-                        </center>
+                        <div>
+                            <center><img src="download.png " alt="GDSC-MCET " width=" 250 "> </center>
+                        </div>
                     </div>
                 </form>
             </div>
